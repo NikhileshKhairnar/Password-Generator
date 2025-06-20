@@ -1,4 +1,4 @@
-# Random Password Generator
+# Password Generator
 
 Generate strong, secure, and random passwords with a click of a button. Built using **HTML**, **CSS**, and **JavaScript**.
 
